@@ -1,2 +1,2 @@
-# sptech-pi-aula-03-10-2023-flexbox
-Exercícios CSS FlexBox.
+# SPTech | Pesquisa & Inovação - AULA 03/10/2023
+- Exercícios CSS FlexBox.
